@@ -3,10 +3,12 @@ title: "Shira Salingre - Resume"
 format:
   html:
     toc: true
+    toc-title: Table of Contents
 ---
 
-::: {.callout-note style="color: gray;"}
-## Shira Salingre is an enthusiastic marine ecologist and data specialist. She is currently working as a freelance researcher and educator.
+::: {.callout-tip"}
+## Introduction
+Shira Salingre is an enthusiastic marine ecologist and data specialist. She is currently working as a freelance researcher and educator.
 :::
 
 ```{=html}
