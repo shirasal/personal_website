@@ -36,5 +36,6 @@ format:
     minimal: false
     css: styles.css
     anchor-sections: false
+    email-obfuscation: references
 
 
