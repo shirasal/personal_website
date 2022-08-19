@@ -1,0 +1,40 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Shira Salingre"
+  description: "Marine ecologist, data analyst and visualist."
+  favicon: images/favicon.png
+  search: false
+  navbar:
+    title: false
+    logo: images/song_logo.png
+    background: "#8F9EBB"
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+    right:
+      - icon: envelope
+        href: mailto:shira.salin@gmail.com
+        aria-label: "email"
+      - icon: linkedin
+        href: https://www.linkedin.com/in/shira-salingre/
+        aria-label: "linkedin"
+      - icon: github
+        href: https://github.com/shirasal
+        aria-label: "github"
+      - icon: twitter
+        href: https://twitter.com/shira_salin
+        aria-label: "twitter"
+  page-footer: "© Shira Salingre 2022"
+
+format:
+  html:
+    theme: minty
+    minimal: false
+    css: styles.css
+    anchor-sections: false
+
+

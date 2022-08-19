@@ -1,0 +1,117 @@
+---
+title: "Shira Salingre - Resume"
+editor: visual
+---
+
+Shira Salingre is an enthusiastic marine ecologist and data specialist. She is currently working as a freelancer researcher and educator.
+
+# Professional Experience
+
+## Marine ecology specialist
+
+### Song of the Sea (Self employed) \| 2015 - Present
+
+**Professional adviser and project coordinator** for the iNPA (Israel's Nature and Parks Authority) for a multitude of projects, mainly focusing on creating educational and professional materials on marine ecology and conservation.\
+[Example: posters for the general public on marine fauna, in Hebrew](https://www.parks.org.il/article/%d7%9b%d7%a8%d7%96%d7%95%d7%aa-%d7%99%d7%9e%d7%99%d7%95%d7%aa/)
+
+**Data analyst** for various ecological research projects.
+
+## Projects ecologist
+
+### HaMaarag - Israel's Nature Assessment Program \| 2020 - 2022
+
+Ecological data processing, analysis, visualisation and reporting for the nonprofit organisation [Hamaarag](https://hamaarag.org.il/). Worked as part of the team of the [State of Nature Report 2022](https://hamaarag.org.il/report/%d7%93%d7%95%d7%97-%d7%9e%d7%a6%d7%91-%d7%94%d7%98%d7%91%d7%a2-2022/), and other projects.
+
+## Marine ecology MSc student and researcher
+
+### The Belmaker lab, Tel Aviv University \| 2018-2020
+
+Explored how co-occurrence of fish species in the Mediterranean sea changes along environmental gradients. My whole work was based on using models in R environment.
+
+My dataset: [MEData](https://belmaker-lab.github.io/medata/)
+
+## Nature conservation tour guide
+
+### Nature and Parks Authority \| 2007-2019
+
+Guided tours that were nature conservation orientated, in field trips and in class or lectures. Lead long-term ecological and environmental educational projects.
+
+## Elasmobranch researcher
+
+### Sharks in Israel \| 2014-2019
+
+Established and managed a shark and rays citizen science observation database. Co-founders of the organisation ["Sharks in Israel - כרישים בישראל"](https://www.sharks.org.il/main/)
+
+## Recreational fishing surveyor
+
+### Nature and Parks Authority & Tel Aviv University \| 2016-2018
+
+Collected data from recreational fishermen on their fishing habits and catch to create the first-ever quantitative estimates on recreational fishing extent in Israel.
+
+## Junior research assistant
+
+### Gitai Yahel's lab, Ruppin Academic Center \| 2016-2018
+
+Worked on various ecological project as part of the [Ruppin Estuarine Coastal Observatory (RECO)](https://www.ruppin.ac.il/en/Gitai-Yahel-Lab/Pages/default.aspx). Here I took samples from the estuary, extracted biological and chemical information from them and assisted with other projects on marine ascidians.
+
+## Sea turtle hatching season volunteer coordinator
+
+### The National Sea Turtle Rescue Center, NPA \| 2011 and 2017
+
+Coordinated and managed a team of volunteers of the Sharon region hatchery, throughout the hatching season. As part of my work I also had to update and consult the hatching database for our operations.
+
+## Sea turtle care taker volunteer
+
+### The National Sea Turtle Rescue Center, NPA \| 2009-2016
+
+I was cleaning and feeding turtles and helped when needed in medical operations. It was great fun!
+
+## Invasive sea star removal volunteer
+
+### Earthcare St. Kilda, Melbourne, Australia \| 2013
+
+This was a one off volunteer experience I had while living and working in Melbourne, Australia. We were physically removing northern pacific seastar from Port Phillip bay.
+
+## Humpback whale research volunteer
+
+### Eye of the Whale, Alaska, USA \| 2011
+
+While traveling in Alaska I had the opportunity to take part in a unique research where we recorded humpback whales in the bay of Homer, and identified the individuals. It was an amazing experiance I will never forget.
+
+# Education
+
+## MSc Marine Ecology \| Tel Aviv University
+
+**Belmaker lab for Marine Ecology and Biodiversity, School of Zoology**\
+Graduated in December 2020
+
+This is where I learned and practiced most of my data science skills, mainly using R, Rstudio (now 'posit') and GitHub. I also started a Github account for our lab, initiated a Google website platform for our fish identification guide (which we all built together), gathered and cleaned our Mediterranean database and lead lab hackathons.\
+Research topic: Dynamic fish networks along environmental gradients in the Mediterranean Sea.
+
+## BSc Marine Sciences \| Ruppin Academic Center
+
+Graduated 2017 with distinction.
+
+Had the opportunity to learn from doing as this was a very hands-on track. I learned basics of research methods, including data analysis using GIS software and Microsoft Excel. My studies included an active research project on the effects of fish farms in the open sea.
+
+# Skills
+
+## Natural languages
+
+-   English: proficient, fluent.
+
+-   Hebrew: native
+
+-   Spanish (Castellano): beginner (still learning!)
+
+## Data processing, analysis and visualisation
+
+-   **R language, RStudio, Rmarkdown**.
+
+-   Spreadsheet software: **Microsoft Excel, Google Sheets**.
+
+-   Geographical information systems (**GIS**): qGIS, ArcGIS.
+
+-   Basic understanding of **SQL**
+
+-   **GitHub** repositories and collaboration tools

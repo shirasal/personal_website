@@ -1,0 +1,14 @@
+---
+title: "Gallery"
+editor: visual
+---
+
+|                                            |                                             |                                                           |
+|----------------------|----------------------|-----------------------------|
+| ![](images/crete.jpeg)                     | ![](images/littoral.jpg)                    | ![](images/survey.jpg)                                    |
+| Underwater fish surveys. _Photo: Hezi Buba_ | Teaching students in marine ecology course. _Photo: Boaz Langen_ | Assisting my friend in his rays surveys. _Photo: Hezi Buba_ |
+
+**Pelagic stingray encounter!**
+```{=html}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/0MMdeYQasOE" title="Pelagic stingray encounter!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
