@@ -1,0 +1,142 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A marine biologist and ecologist utilising the power of data science tools."
+  },
+  {
+    "objectID": "about.html#scope",
+    "href": "about.html#scope",
+    "title": "About",
+    "section": "Scope",
+    "text": "Scope\n\nTeach and educate about the marine environment\nThrough presentations, lectures, posts and other educational materials I advocate marine environment importance.\nSome of my work includes posters made with the Nature and Parks Authority in Israel (in Hebrew).\nClean, analyse and visualise data\nIn our visual world, we tend to understand things better when they are presented to us this way. I believe that using the right tools to create meaningful insights from data is key in understanding processes and changes."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\n\nR language and RStudio (aka ‘posit’)\nSQL\nGIS: ArcGIS and qGIS\nI can also build websites with Quarto (like this one!), HTML and CSS.\n\nBrowse my CV"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Gallery",
+    "section": "",
+    "text": "Pelagic stingray encounter!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Shira Salingre",
+    "section": "",
+    "text": "My mission is to make complicated ideas clear and easy to understand. My work is dedicated to creating meaningful information from data and to make information accessible to everyone. I do this with data analysis and visualisation, as well as through creating educational materials on marine ecology topics (and others!).\nI am based in Barcelona but I work everywhere.\nFeel free to contact me.\n  \nEmail: shira.salin@gmail.com"
+  },
+  {
+    "objectID": "my_cv.html",
+    "href": "my_cv.html",
+    "title": "Shira Salingre - Resume",
+    "section": "",
+    "text": "Shira Salingre is an enthusiastic marine ecologist and data specialist. She is currently working as a freelance researcher and educator."
+  },
+  {
+    "objectID": "my_cv.html#marine-ecology-specialist",
+    "href": "my_cv.html#marine-ecology-specialist",
+    "title": "Shira Salingre - Resume",
+    "section": "Marine ecology specialist",
+    "text": "Marine ecology specialist\n\nSong of the Sea (Self employed) | 2015 - Present\nProfessional adviser and project coordinator for a multitude of projects, mainly focusing on creating educational and professional materials on marine ecology and conservation.\nExample: NPA (Nature and Parks Authority) posters for the general public on marine fauna, in Hebrew\nData analyst in various ecological research projects."
+  },
+  {
+    "objectID": "my_cv.html#projects-ecologist",
+    "href": "my_cv.html#projects-ecologist",
+    "title": "Shira Salingre - Resume",
+    "section": "Projects ecologist",
+    "text": "Projects ecologist\n\nHaMaarag - Israel’s Nature Assessment Program | 2020 - 2022\nEcological data processing, analysis, visualisation and reporting for the nonprofit organisation Hamaarag. Worked as part of the team of the State of Nature Report 2022, and other projects."
+  },
+  {
+    "objectID": "my_cv.html#teaching-assistant-in-bsc-course",
+    "href": "my_cv.html#teaching-assistant-in-bsc-course",
+    "title": "Shira Salingre - Resume",
+    "section": "Teaching assistant in BSc course",
+    "text": "Teaching assistant in BSc course\n\nRuppin Academic Center | 2019 - 2022\nTeaching undergraduate students in an intensive week-long course on the ecology of the Mediterranean, every year."
+  },
+  {
+    "objectID": "my_cv.html#marine-ecology-msc-student-and-researcher",
+    "href": "my_cv.html#marine-ecology-msc-student-and-researcher",
+    "title": "Shira Salingre - Resume",
+    "section": "Marine ecology MSc student and researcher",
+    "text": "Marine ecology MSc student and researcher\n\nThe Belmaker lab, Tel Aviv University | 2018-2020\nExplored how co-occurrence of fish species in the Mediterranean sea changes along environmental gradients. My whole work was based on using models in R environment.\nMy dataset: MEData"
+  },
+  {
+    "objectID": "my_cv.html#nature-conservation-tour-guide",
+    "href": "my_cv.html#nature-conservation-tour-guide",
+    "title": "Shira Salingre - Resume",
+    "section": "Nature conservation tour guide",
+    "text": "Nature conservation tour guide\n\nNature and Parks Authority | 2007-2019\nGuided tours that were nature conservation orientated, in field trips and in class or lectures. Lead long-term ecological and environmental educational projects."
+  },
+  {
+    "objectID": "my_cv.html#elasmobranch-researcher",
+    "href": "my_cv.html#elasmobranch-researcher",
+    "title": "Shira Salingre - Resume",
+    "section": "Elasmobranch researcher",
+    "text": "Elasmobranch researcher\n\nSharks in Israel | 2014-2019\nEstablished and managed a shark and rays citizen science observation database. Co-founders of the organisation “Sharks in Israel - כרישים בישראל”"
+  },
+  {
+    "objectID": "my_cv.html#recreational-fishing-surveyor",
+    "href": "my_cv.html#recreational-fishing-surveyor",
+    "title": "Shira Salingre - Resume",
+    "section": "Recreational fishing surveyor",
+    "text": "Recreational fishing surveyor\n\nNature and Parks Authority & Tel Aviv University | 2016-2018\nCollected data from recreational fishermen on their fishing habits and catch to create the first-ever quantitative estimates on recreational fishing extent in Israel."
+  },
+  {
+    "objectID": "my_cv.html#junior-research-assistant",
+    "href": "my_cv.html#junior-research-assistant",
+    "title": "Shira Salingre - Resume",
+    "section": "Junior research assistant",
+    "text": "Junior research assistant\n\nGitai Yahel’s lab, Ruppin Academic Center | 2016-2018\nWorked on various ecological project as part of the Ruppin Estuarine Coastal Observatory (RECO). Here I took samples from the estuary, extracted biological and chemical information from them and assisted with other projects on marine ascidians."
+  },
+  {
+    "objectID": "my_cv.html#sea-turtle-hatching-season-volunteer-coordinator",
+    "href": "my_cv.html#sea-turtle-hatching-season-volunteer-coordinator",
+    "title": "Shira Salingre - Resume",
+    "section": "Sea turtle hatching season volunteer coordinator",
+    "text": "Sea turtle hatching season volunteer coordinator\n\nThe National Sea Turtle Rescue Center, NPA | 2011 and 2017\nCoordinated and managed a team of volunteers of the Sharon region hatchery, throughout the hatching season. As part of my work I also had to update and consult the hatching database for our operations."
+  },
+  {
+    "objectID": "my_cv.html#sea-turtle-care-taker-volunteer",
+    "href": "my_cv.html#sea-turtle-care-taker-volunteer",
+    "title": "Shira Salingre - Resume",
+    "section": "Sea turtle care taker volunteer",
+    "text": "Sea turtle care taker volunteer\n\nThe National Sea Turtle Rescue Center, NPA | 2009-2016\nCleaned and fed turtles and helped when needed in medical operations. It was great fun!"
+  },
+  {
+    "objectID": "my_cv.html#invasive-sea-star-removal-volunteer",
+    "href": "my_cv.html#invasive-sea-star-removal-volunteer",
+    "title": "Shira Salingre - Resume",
+    "section": "Invasive sea star removal volunteer",
+    "text": "Invasive sea star removal volunteer\n\nEarthcare St. Kilda, Melbourne, Australia | 2013\nA one off volunteer experience I had while living and working in Melbourne, Australia. We were physically removing northern pacific seastar from Port Phillip bay."
+  },
+  {
+    "objectID": "my_cv.html#humpback-whale-research-volunteer",
+    "href": "my_cv.html#humpback-whale-research-volunteer",
+    "title": "Shira Salingre - Resume",
+    "section": "Humpback whale research volunteer",
+    "text": "Humpback whale research volunteer\n\nEye of the Whale, Alaska, USA | 2011\nWhile traveling in Alaska I took part in this unique research where we recorded humpback whales in the bay of Homer, and identified the individuals. It was an amazing experiance I will never forget."
+  },
+  {
+    "objectID": "my_cv.html#msc-marine-ecology-tel-aviv-university",
+    "href": "my_cv.html#msc-marine-ecology-tel-aviv-university",
+    "title": "Shira Salingre - Resume",
+    "section": "MSc Marine Ecology | Tel Aviv University",
+    "text": "MSc Marine Ecology | Tel Aviv University\nBelmaker lab for Marine Ecology and Biodiversity, School of Zoology\nGraduated in December 2020.\nWhere I learned and practiced most of my data science skills, mainly using R, Rstudio (now ‘posit’) and GitHub. I also started a Github account for our lab, initiated a Google website platform for our fish identification guide (which we all built together), gathered and cleaned our Mediterranean database and lead lab hackathons.\nResearch topic: Dynamic fish networks along environmental gradients in the Mediterranean Sea."
+  },
+  {
+    "objectID": "my_cv.html#bsc-marine-sciences-ruppin-academic-center",
+    "href": "my_cv.html#bsc-marine-sciences-ruppin-academic-center",
+    "title": "Shira Salingre - Resume",
+    "section": "BSc Marine Sciences | Ruppin Academic Center",
+    "text": "BSc Marine Sciences | Ruppin Academic Center\nGraduated 2017 with distinction.\nHad the opportunity to learn from doing as this was a very hands-on track. I learned basics of research methods, including data analysis using GIS software and Microsoft Excel. My studies included an active research project on the effects of fish farms in open seas."
+  }
+]
