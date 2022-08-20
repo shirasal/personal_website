@@ -10,14 +10,16 @@ title: "About"
     Through presentations, lectures, posts and other educational materials I advocate marine environment importance.\
     Some of my work includes [posters made with the Nature and Parks Authority in Israel](https://www.parks.org.il/article/%d7%9b%d7%a8%d7%96%d7%95%d7%aa-%d7%99%d7%9e%d7%99%d7%95%d7%aa/) (in Hebrew).
 
--   **Clean, analyse and visualise data\
-    **In our visual world, we tend to understand things better when they are presented to us this way. I believe that using the right tools to create meaningful insights from data is key in understanding processes and changes.
+-   **Clean, analyse and visualise data**\
+    In our visual world, we tend to understand things better when they are presented to us this way. I believe that using the right tools to create meaningful insights from data is key in understanding processes and changes.
 
 ## Skills
 
 -   **R language** and **RStudio** (aka *'posit'*)
--   **SQL**
 -   **GIS**: ArcGIS and qGIS
--   I can also build websites with Quarto (like this one!), HTML and CSS.
+-   **Github** repositories and collaboration
+-   Basic knowledge of **SQL**
+-   Website building with Quarto (like this one!), HTML and CSS.
+-   **Science communication**, lectures, presentations, writing
 
 [Browse my CV](my_cv.qmd){.button}

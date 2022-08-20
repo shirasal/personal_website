@@ -123,14 +123,12 @@ Had the opportunity to learn from doing as this was a very hands-on track. I lea
 ### Science communication
 
 -   Public speaking
--   Presentations creation (**Michrosoft PowerPoint**, **Google Slides**, **RMarkdown**)
+-   Presentations creation (**Microsoft PowerPoint**, **Google Slides**, **RMarkdown**)
 -   Article writing (blog posts, popular science)
 -   Scientific report writing
 
 ### Natural languages
 
 -   English: proficient, fluent.
-
 -   Hebrew: native.
-
 -   Spanish (Castellano): beginner.
