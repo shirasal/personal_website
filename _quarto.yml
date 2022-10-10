@@ -17,7 +17,7 @@ website:
       - about.qmd
     right:
       - icon: envelope
-        href: mailto:shira.salin@gmail.com
+        href: mailto:shira.salin@outlook.com
         aria-label: "email"
       - icon: linkedin
         href: https://www.linkedin.com/in/shira-salingre/
