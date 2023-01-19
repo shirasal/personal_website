@@ -88,18 +88,21 @@ While traveling in Alaska I took part in this unique research where we recorded 
 ## Education
 
 ```{r}
-library(tibble)
-tribble(
-  ~ Degree, ~ Year, ~ Institution, 
-  "Master of Science (Ecology)", "2018-2020", "Tel Aviv University", 
-  "Bachelor of Science (Marine Sciences)", "2014-2017", "Ruppin Academic Center", 
-) %>% 
-  detailed_entries(Degree, Year, Institution)
+edu_table <- tibble::tribble(
+    ~ Degree, ~ Year, ~ Institution, 
+    "Master of Science (Ecology)", "2018-2020", "Tel Aviv University", 
+    "Bachelor of Science (Marine Sciences)", "2014-2017", "Ruppin Academic Center", 
+  )
+formattable::format_table(edu_table, 
+                          align = c("l", "c", "l"))
+
 ```
 
 In my BSc I learned basics of research methods, including data analysis using GIS software and Microsoft Excel. My studies included a research project on the effects of fish farms in open seas.
 
-During my Masters studies I learned and practiced most of my data science skills, mainly using R, Rstudio (now 'posit') and GitHub. I also started a Github account for our lab, initiated a Google website platform for our fish identification guide (which we all built together), gathered and cleaned our Mediterranean database and lead lab hackathons. My research topic was "Dynamic fish networks along environmental gradients in the Mediterranean Sea".
+During my Master studies I learned and practiced most of my data science skills, mainly using R, Rstudio (now 'posit') and GitHub.  
+I also started a Github account for our lab, initiated a Google website platform for our fish identification guide (which we all built together), gathered and cleaned our Mediterranean database and lead lab hackathons.  
+My research topic was "Dynamic fish networks along environmental gradients in the Mediterranean Sea".
 
 
 
@@ -123,20 +126,6 @@ During my Masters studies I learned and practiced most of my data science skills
 -   English: proficient, fluent.
 -   Hebrew: native.
 -   Spanish (Castellano): beginner (B1).
-
-```{r include=FALSE}
-# From the original template
-tribble(
-  ~Year, ~Type, ~Desc,
-  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
-  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
-) %>% 
-  brief_entries(
-    glue::glue("Nobel Prize in {Type}"),
-    Year, 
-    Desc
-  )
-```
 
 
 \fancyfoot[CO,CE]{

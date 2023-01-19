@@ -25,21 +25,21 @@
     "href": "gallery.html",
     "title": "Gallery",
     "section": "",
-    "text": "Pelagic stingray encounter!"
+    "text": "Underwater fish surveys. Photo: Hezi Buba\nTeaching students in marine ecology course. Photo: Boaz Langen\nAssisting my friend in his rays surveys. Photo: Hezi Buba\n\n\n\nPelagic stingray encounter!"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Shira Salingre",
     "section": "",
-    "text": "My mission is to make complicated ideas clear and easy to understand. My work is dedicated to creating meaningful information from data and to make information accessible to everyone. I do this with data analysis and visualisation, as well as through creating educational materials on marine ecology topics (and others!).\nI am based in Barcelona but I work everywhere.\nFeel free to contact me.\n  \nEmail: shira.salin@gmail.com"
+    "text": "My mission is to make complicated ideas clear and easy to understand. My work is dedicated to creating meaningful information from data and to make knowledge accessible to everyone. I do this with data analysis and visualisation, as well as through creating educational materials on marine ecology topics (and others!).\nI am based in Barcelona but I work everywhere.\nFeel free to contact me.\n  \nEmail: shira.salin@outlook.com"
   },
   {
     "objectID": "my_cv.html",
     "href": "my_cv.html",
-    "title": "Shira Salingre - Resume",
+    "title": "Shira Salingre",
     "section": "",
-    "text": "Shira Salingre is an enthusiastic marine ecologist and data specialist. She is currently working as a freelance researcher and educator."
+    "text": "Song of the Sea (Self employed) | 2015 - Present\nProfessional adviser and project coordinator for a multitude of projects, mainly focusing on creating educational and professional materials on marine ecology and conservation.\nExample: NPA (Nature and Parks Authority) posters for the general public on marine fauna, in Hebrew\nData analyst in various ecological research projects.\n\n\n\nHaMaarag - Israel’s Nature Assessment Program | 2020 - 2022\nEcological data processing, analysis, visualisation and reporting for the nonprofit organisation Hamaarag. Worked as part of the team of the State of Nature Report 2022, and other projects.\n\n\n\nRuppin Academic Center | 2019 - 2022\nTeaching undergraduate students in an intensive week-long course on the ecology of the Mediterranean.\n\n\n\nThe Belmaker lab, Tel Aviv University | 2018-2020\nExplored how co-occurrence of fish species in the Mediterranean sea changes along environmental gradients. My whole work was based on using models in R environment.\nMy dataset: MEData\n\n\n\nNature and Parks Authority | 2007-2019\nGuided tours that were nature conservation orientated, in field trips and in class or lectures. Lead long-term ecological and environmental educational projects.\n\n\n\nSharks in Israel | 2014-2019\nEstablished and managed a shark and rays citizen science observation database. Co-founder of the organisation “Sharks in Israel”.\n\n\n\nNature and Parks Authority & Tel Aviv University | 2016-2018\nCollected data from recreational fishermen on their fishing habits and catch to create first-ever quantitative estimates on recreational fishing extent in Israel.\n\n\n\nGitai Yahel’s lab, Ruppin Academic Center | 2016-2018\nWorked on various ecological project as part of the Ruppin Estuarine Coastal Observatory (RECO). Here I took samples from the estuary, extracted biological and chemical information from them and assisted with other projects on marine ascidians.\n\n\n\nThe National Sea Turtle Rescue Center, NPA | 2011 and 2017\nCoordinated and managed a team of volunteers of the Sharon region hatchery, throughout the hatching season. As part of my work I also had to update and consult the hatching database for our operations.\n\n\n\nThe National Sea Turtle Rescue Center, NPA | 2009-2016\nCleaned and fed turtles and helped when needed in medical operations. It was great fun!\n\n\n\nEarthcare St. Kilda, Melbourne, Australia | 2013\nA one off volunteer experience I had while living and working in Melbourne, Australia. We were physically removing northern pacific seastar from Port Phillip bay.\n\n\n\nEye of the Whale, Alaska, USA | 2011\nWhile traveling in Alaska I took part in this unique research where we recorded humpback whales in the bay of Homer, and identified the individuals. It was an amazing experiance I will never forget."
   },
   {
     "objectID": "my_cv.html#marine-ecology-specialist",
@@ -138,5 +138,19 @@
     "title": "Shira Salingre - Resume",
     "section": "BSc Marine Sciences | Ruppin Academic Center",
     "text": "BSc Marine Sciences | Ruppin Academic Center\nGraduated 2017 with distinction.\nHad the opportunity to learn from doing as this was a very hands-on track. I learned basics of research methods, including data analysis using GIS software and Microsoft Excel. My studies included an active research project on the effects of fish farms in open seas."
+  },
+  {
+    "objectID": "my_cv.html#education",
+    "href": "my_cv.html#education",
+    "title": "Shira Salingre",
+    "section": "Education",
+    "text": "Education\n\n\n\n\n \n  \n    Degree \n    Year \n    Institution \n  \n \n\n  \n    Master of Science (Ecology) \n    2018-2020 \n    Tel Aviv University \n  \n  \n    Bachelor of Science (Marine Sciences) \n    2014-2017 \n    Ruppin Academic Center \n  \n\n\n\n\n\nIn my BSc I learned basics of research methods, including data analysis using GIS software and Microsoft Excel. My studies included a research project on the effects of fish farms in open seas.\nDuring my Master studies I learned and practiced most of my data science skills, mainly using R, Rstudio (now ‘posit’) and GitHub.\nI also started a Github account for our lab, initiated a Google website platform for our fish identification guide (which we all built together), gathered and cleaned our Mediterranean database and lead lab hackathons.\nMy research topic was “Dynamic fish networks along environmental gradients in the Mediterranean Sea”."
+  },
+  {
+    "objectID": "my_cv.html#skills",
+    "href": "my_cv.html#skills",
+    "title": "Shira Salingre",
+    "section": "Skills",
+    "text": "Skills\n\nData processing, analysis and visualisation\n\nR language, RStudio, Rmarkdown.\nSpreadsheet softwares: Microsoft Excel, Google Sheets.\nGeographical information systems (GIS): qGIS, ArcGIS.\nGitHub repositories, version control and collaboration tools\nBasic understanding of SQL\nData analysis with Python (namely pandas library)\n\n\n\nScience communication\n\nPublic speaking\nPresentations creation (Microsoft PowerPoint, Google Slides, RMarkdown)\nArticle writing (blog posts, popular science)\nScientific report writing\n\n\n\nNatural languages\n\nEnglish: proficient, fluent.\nHebrew: native.\nSpanish (Castellano): beginner (B1)."
   }
 ]
