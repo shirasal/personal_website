@@ -49,7 +49,7 @@ Skills
 &nbsp;
 &nbsp;
 
-<button class="button-28" role="button">[Browse my CV](https://raw.githubusercontent.com/shirasal/my_cv/main/shira_resume/shira_resume.pdf)</button>  
+<button class="button-28" role="button">[Browse my CV](https://raw.githubusercontent.com/shirasal/my_cv/main/shira_cv/shira_cv.pdf)</button>  
 
 &nbsp;
 
