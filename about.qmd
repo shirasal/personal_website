@@ -2,24 +2,59 @@
 title: "About"
 ---
 
-> **A marine biologist and ecologist utilising the power of data science tools.**
+> Curious and passionate quantitative researcher with analytical thinking and project management skills.
 
-## Scope
+Who am I?
+-------------------------------
 
--   **Teach and educate about the marine environment**\
-    Through presentations, lectures, posts and other educational materials I advocate marine environment importance.\
-    Some of my work includes [posters made with the Nature and Parks Authority in Israel](https://www.parks.org.il/article/%d7%9b%d7%a8%d7%96%d7%95%d7%aa-%d7%99%d7%9e%d7%99%d7%95%d7%aa/) (in Hebrew).
+My professional background comes from nature sciences. I studied marine biology and ecology in my undergraduate (BSc) and specialised in fish community ecology in my masters (MSc).  
+During my bachelor's degree I was exposed and started to engage with the world of data and became fascinated about it. At the time I had the opportunity to establish, maintain and analyse a sharks and rays observation database, and to set up a protocol for observations data collection and management, which is still in use by teams of marine biologists all around the Mediterranean.  
+My two-year long master's was a great mix of survey dives (for other people's research) and data processing and analysis (for my research).  
+Just before finishing my degree, I started working in an organisation that its main mission is to report the state of nature in Israel, and this is where I spent many days, months and, overall, about two years of data crunching, exploration and analysis to create insights on the processes that nature in Israel had gone through in the past 10-30 years. I worked with tabular data and with geographical data (combining R with QGIS and ArcGIS).  
+I was also doing freelance work as an ecology specialist and data analyst for several clients including organisations, researchers, and councils.  
 
--   **Clean, analyse and visualise data**\
-    In our visual world, we tend to understand things better when they are presented to us this way. I believe that using the right tools to create meaningful insights from data is key in understanding processes and changes.
 
-## Skills
+Scope 
+-------------------------------
+- Data management and cleaning
+- Data analysis
+- Data visualisation as an advocacy tool
+- Capacity building, outreach and data literacy
 
+I also like to paint horrible water-colour doodles, snorkel and dive, fail while trying to learn more stuff and to airdrum 🤟
+
+:::: {.columns}
+
+::: {.column width="60%"}
+
+Skills
+-------------------------------
 -   **R language** and **RStudio** (aka *'posit'*)
 -   **GIS**: ArcGIS and qGIS
--   **Github** repositories and collaboration
--   Basic knowledge of **SQL**
+-   **Github** repositories and collaboration (using **Git**)
+-   Some experience with **SQL** queries
+-   Basic knowledge coding in **Python** (using **pandas**, **matplotlib**...)
 -   Website building with Quarto (like this one!), HTML and CSS.
--   **Science communication**, lectures, presentations, writing
+-   **Science communication** via public speaking, scientific (reports) and non-scientific writing.
 
-[Browse my CV](my_cv.qmd){.button}
+:::
+
+::: {.column width="5%"}
+<!-- empty column to create gap -->
+:::
+
+
+::: {.column width="35%"}
+&nbsp;
+&nbsp;
+&nbsp;
+
+<button class="button-28" role="button">[Browse my CV](https://raw.githubusercontent.com/shirasal/my_cv/main/shira_resume/shira_resume.pdf)</button>  
+
+&nbsp;
+
+See some of my work on my [GitHub profile](https://github.com/shirasal) or [here](https://linktr.ee/shirasal).
+
+:::
+
+::::

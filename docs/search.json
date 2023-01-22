@@ -4,21 +4,21 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "A marine biologist and ecologist utilising the power of data science tools."
+    "text": "Curious and passionate quantitative researcher with analytical thinking and project management skills."
   },
   {
     "objectID": "about.html#scope",
     "href": "about.html#scope",
     "title": "About",
     "section": "Scope",
-    "text": "Scope\n\nTeach and educate about the marine environment\nThrough presentations, lectures, posts and other educational materials I advocate marine environment importance.\nSome of my work includes posters made with the Nature and Parks Authority in Israel (in Hebrew).\nClean, analyse and visualise data\nIn our visual world, we tend to understand things better when they are presented to us this way. I believe that using the right tools to create meaningful insights from data is key in understanding processes and changes."
+    "text": "Scope\n\nData management and cleaning\nData analysis\nData visualisation as an advocacy tool\nCapacity building, outreach and data literacy\n\nI also like to paint horrible water-colour doodles, snorkel and dive, fail while trying to learn more stuff and to airdrum 🤟"
   },
   {
     "objectID": "about.html#skills",
     "href": "about.html#skills",
     "title": "About",
     "section": "Skills",
-    "text": "Skills\n\nR language and RStudio (aka ‘posit’)\nGIS: ArcGIS and qGIS\nGithub repositories and collaboration\nBasic knowledge of SQL\nWebsite building with Quarto (like this one!), HTML and CSS.\nScience communication, lectures, presentations, writing\n\nBrowse my CV"
+    "text": "Skills\n\nR language and RStudio (aka ‘posit’)\nGIS: ArcGIS and qGIS\nGithub repositories and collaboration (using Git)\nSome experience with SQL queries\nBasic knowledge coding in Python (using pandas, matplotlib…)\nWebsite building with Quarto (like this one!), HTML and CSS.\nScience communication via public speaking, scientific (reports) and non-scientific writing."
   },
   {
     "objectID": "gallery.html",
@@ -32,7 +32,7 @@
     "href": "index.html",
     "title": "Shira Salingre",
     "section": "",
-    "text": "My mission is to make complicated ideas clear and easy to understand. My work is dedicated to creating meaningful information from data and to make knowledge accessible to everyone. I do this with data analysis and visualisation, as well as through creating educational materials on marine ecology topics (and others!).\nI am based in Barcelona but I work everywhere.\nFeel free to contact me.\n  \nEmail: shira.salin@outlook.com"
+    "text": "My mission is to make complicated ideas clear and easy to understand. My work is dedicated to creating meaningful information from data and to make knowledge accessible to everyone. I do this with data analysis and visualisation, as well as through creating educational materials on marine ecology topics (and others!).\nI am based in Barcelona but I work everywhere.\nFeel free to contact me.\nEmail: shira.salin@outlook.com"
   },
   {
     "objectID": "my_cv.html",
@@ -152,5 +152,19 @@
     "title": "Shira Salingre",
     "section": "Skills",
     "text": "Skills\n\nData processing, analysis and visualisation\n\nR language, RStudio, Rmarkdown.\nSpreadsheet softwares: Microsoft Excel, Google Sheets.\nGeographical information systems (GIS): qGIS, ArcGIS.\nGitHub repositories, version control and collaboration tools\nBasic understanding of SQL\nData analysis with Python (namely pandas library)\n\n\n\nScience communication\n\nPublic speaking\nPresentations creation (Microsoft PowerPoint, Google Slides, RMarkdown)\nArticle writing (blog posts, popular science)\nScientific report writing\n\n\n\nNatural languages\n\nEnglish: proficient, fluent.\nHebrew: native.\nSpanish (Castellano): beginner (B1)."
+  },
+  {
+    "objectID": "salingre_cv/salingre_cv.html",
+    "href": "salingre_cv/salingre_cv.html",
+    "title": "Shira Salingre",
+    "section": "",
+    "text": "Some stuff about me\n\nI poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences.\n\n\n\nEducation\n\n\n# A tibble: 2 × 5\n  where             what                 when      with                   why   \n  <chr>             <chr>                <chr>     <chr>                  <list>\n1 Tel Aviv, Israel  MSc, Ecology         2018-2020 Tel Aviv University    <chr> \n2 Michmoret, Israel BSc, Marine Sciences 2014-2017 Ruppin Academic Center <chr> \n\n\n\n\nExperience\n\n\n# A tibble: 13 × 5\n   where                what                                   when  with  why  \n   <chr>                <chr>                                  <chr> <chr> <lis>\n 1 <NA>                 Marine ecology specialist              2015… Free… <chr>\n 2 Tel Aviv, Israel     Data projects ecologist                2020… HaMa… <chr>\n 3 Michmoret, Israel    Teaching assistant in BSc course       2019… Rupp… <chr>\n 4 Israel               Nature conservation tour guide         2007… Natu… <chr>\n 5 Israel               Elasmobranch researcher                2014… Shar… <chr>\n 6 Israel               Recreational fishing surveyor          2016… Natu… <chr>\n 7 Michmoret, Israel    Junior research assistant              2016… Gita… <chr>\n 8 Michmoret, Israel    Sea turtle hatching season volunteer … 2011… The … <chr>\n 9 Michmoret, Israel    Sea turtle hatching season volunteer … 2017… The … <chr>\n10 Michmoret, Israel    Sea turtle care taker volunteer        2009… The … <chr>\n11 Melbourne, Australia Invasive sea star removal volunteer    2013… Eart… <chr>\n12 Alaska, USA          Humpback whale research volunteer      2011… Eye … <chr>\n13 <NA>                 <NA>                                   NA-NA <NA>  <chr>\n\n\n\n\nSkills\n\n\n# A tibble: 7 × 3\n  what     when   with\n  <chr>    <chr> <dbl>\n1 R        <NA>      5\n2 Markdown <NA>      5\n3 Git      <NA>      3\n4 QGIS     <NA>      4\n5 ArcGIS   <NA>      3\n6 SQL      <NA>      1\n7 Python   <NA>      1"
+  },
+  {
+    "objectID": "about.html#who-am-i",
+    "href": "about.html#who-am-i",
+    "title": "About",
+    "section": "Who am I?",
+    "text": "Who am I?\nMy professional background comes from nature sciences. I studied marine biology and ecology in my undergraduate (BSc) and specialised in fish community ecology in my masters (MSc).\nDuring my bachelor’s degree I was exposed and started to engage with the world of data and became fascinated about it. At the time I had the opportunity to establish, maintain and analyse a sharks and rays observation database, and to set up a protocol for observations data collection and management, which is still in use by teams of marine biologists all around the Mediterranean.\nMy two-year long master’s was a great mix of survey dives (for other people’s research) and data processing and analysis (for my research).\nJust before finishing my degree, I started working in an organisation that its main mission is to report the state of nature in Israel, and this is where I spent many days, months and, overall, about two years of data crunching, exploration and analysis to create insights on the processes that nature in Israel had gone through in the past 10-30 years. I worked with tabular data and with geographical data (combining R with QGIS and ArcGIS).\nI was also doing freelance work as an ecology specialist and data analyst for several clients including organisations, researchers, and councils."
   }
 ]
