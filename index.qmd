@@ -19,7 +19,7 @@ Feel free to contact me.
 
 ::: {.column width="20%"}
 
-![](images/me_with_algae.jpg)
+![](https://raw.githubusercontent.com/shirasal/shirasal.github.io/main/images/me_with_algae.JPG)
 
 :::
 
