@@ -25,6 +25,9 @@ website:
       - icon: github
         href: https://github.com/shirasal
         aria-label: "github"
+      - icon: bi-file-earmark-pdf
+        href: https://raw.githubusercontent.com/shirasal/my_cv/main/shira_cv/shira_cv.pdf
+        text: CV
       - icon: twitter
         href: https://twitter.com/shira_salin
         aria-label: "twitter"
