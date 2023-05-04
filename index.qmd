@@ -4,7 +4,7 @@ title: "Shira Salingre"
 :::: {.columns}
 
 ::: {.column width="70%"}
-## Data specialist || Marine scientist
+## Data specialist • Marine scientist
 
 My mission is to make **complicated ideas** clear and **easy to understand**. My work is dedicated to creating meaningful information from data and to make knowledge **accessible to everyone**. I do this with data analysis and visualisation, as well as through creating educational materials on marine ecology topics (and others!).
 
